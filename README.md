@@ -55,6 +55,15 @@ When you're ready, run:
 ```bash
 npm run reset-project
 ```
+## Shots
+
+<img src="https://github.com/Bornmajor/my-camera-app/assets/98744068/2fdfaf3f-8abe-493e-959c-c262b8b54404" width="200">
+<!-- <img src="https://github.com/Bornmajor/my-camera-app/assets/98744068/06073e54-ea23-4b6e-9c6e-cab9df5a3f7a" width="200"> -->
+<img src="https://github.com/Bornmajor/my-camera-app/assets/98744068/2b38734a-1fe1-4e60-9779-39a16fc7833e" width="200">
+<img src="https://github.com/Bornmajor/my-camera-app/assets/98744068/d96a7412-7a5a-431f-b1d7-cb7a70cad768" width="200">
+<img src="https://github.com/Bornmajor/my-camera-app/assets/98744068/912fa13c-639c-41c2-8f88-49c17264a39d" width="200">
+
+
 
 ## Learn more
 
